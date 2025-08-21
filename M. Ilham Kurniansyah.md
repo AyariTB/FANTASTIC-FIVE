@@ -1,3 +1,3 @@
-# Nama: M. ILHAM KURNIANSYAH
-# Nim : D121231104
+# Nama: JUAN MARVIN DAVID
+# Nim : D121231053
 # Kelas B
