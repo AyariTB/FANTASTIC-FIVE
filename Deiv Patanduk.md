@@ -1,3 +1,3 @@
-# Nama: Deiv Patanduk
-# Nim : D121231056
+# Nama: M. ILHAM KURNIANSYAH
+# Nim : D121231104
 # Kelas B
